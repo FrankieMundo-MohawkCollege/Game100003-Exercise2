@@ -3,3 +3,5 @@
 
 ## Assignment Objective
 i made a game that does x... you win by doing y...
+
+The main characters name is Scarlet Witch and she has a book called the Darkhold
